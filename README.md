@@ -37,4 +37,4 @@ Created a dashboard in tableau by choosing appropriate chart types and metrics u
 
 5. Created bins of these age values: 20-25, 25-30, 30-35, etc. Analyzed different variables for these age brackets using a bubble chart.
 
-[Tablea Public link](https://public.tableau.com/views/Project_17019715492800/Sheet22?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Tablea Public link]([https://public.tableau.com/views/Project_17019715492800/Sheet22?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/sreya.dinesh/viz/Project_17019715492800/Dashboard1?publish=yes)https://public.tableau.com/app/profile/sreya.dinesh/viz/Project_17019715492800/Dashboard1?publish=yes)
