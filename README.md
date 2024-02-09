@@ -10,19 +10,19 @@ The datasets consists of several medical predictor variables and one target vari
 [Download dataset](https://github.com/Simplilearn-Edu/Data-Science-Capstone-Projects/blob/master/health%20care%20diabetes.csv)
 ## Approach:
 ### Data Exploration:
-Performed descriptive analysis. Analyzed the variables and their corresponding values. 
+- Performed descriptive analysis. Analyzed the variables and their corresponding values. 
 
-Treated missing values (ie value of zero indicate missing value) and visually explored the variables using histogram.
+- Treated missing values (ie value of zero indicate missing value) and visually explored the variables using histogram.
 
-Created a count (frequency) plot describing the data types and the count of variables and count of outcomes by their value.
+- Created a count (frequency) plot describing the data types and the count of variables and count of outcomes by their value.
 
-Created scatter charts between the pair of variables to understand the relationships between variables.
+- Created scatter charts between the pair of variables to understand the relationships between variables.
 
-Performed correlation analysis by visually exploring it using a heat map.
+- Performed correlation analysis by visually exploring it using a heat map.
 ### Data Modeling:
-Devised strategies for model building and applied an appropriate classification algorithm to build a model.
+- Devised strategies for model building and applied an appropriate classification algorithm to build a model.
 
-Compared various models with the results from KNN algorithm and created a classification report by analyzing sensitivity, specificity, AUC (ROC curve), etc.
+- Compared various models with the results from KNN algorithm and created a classification report by analyzing sensitivity, specificity, AUC (ROC curve), etc.
 
 ### Data Reporting:
 Created a dashboard in tableau by choosing appropriate chart types and metrics useful for the business. The dashboard must entail the following:
