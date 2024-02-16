@@ -27,14 +27,10 @@ The datasets consists of several medical predictor variables and one target vari
 ### Data Reporting:
 Created a dashboard in tableau by choosing appropriate chart types and metrics useful for the business. The dashboard must entail the following:
 
-1. Pie chart to describe the diabetic or non-diabetic population
+1. Scatter charts between relevant variables to analyze the relationships
 
-2. Scatter charts between relevant variables to analyze the relationships
+2. Histogram or frequency charts to analyze the distribution of the data
 
-3. Histogram or frequency charts to analyze the distribution of the data
-
-4. Heatmap of correlation analysis among the relevant variables
-
-5. Created bins of these age values: 20-25, 25-30, 30-35, etc. Analyzed different variables for these age brackets using a bubble chart.
+3. Created bins of these age values: 20-25, 25-30, 30-35, etc. Analyzed different variables for these age brackets using a bubble chart.
 
 [Tablea Public link](https://public.tableau.com/app/profile/sreya.dinesh/viz/Project_17019715492800/Dashboard1?publish=yes)
